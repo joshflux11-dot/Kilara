@@ -6,7 +6,7 @@ This document contains the profiles of all Major Non-Player Characters (MNPCs) a
 * **One-Liner:** XXX
 * **Physical Appearance:** XXX
 * **Personality & Traits:** XXX
-* **Goals:** XXX
+* **Desires:** XXX
 * **Background (in bullet points):**
     * XXX
     * XXX
@@ -15,7 +15,7 @@ This document contains the profiles of all Major Non-Player Characters (MNPCs) a
 * **One-Liner:** XXX
 * **Physical Appearance:** XXX
 * **Personality & Traits:** XXX
-* **Goals:** XXX
+* **Desires:** XXX
 * **Background (in bullet points):**
     * XXX
     * XXX
