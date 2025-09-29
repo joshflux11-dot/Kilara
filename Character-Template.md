@@ -3,6 +3,8 @@
 * **Role in the Story:** XXX
 * **Physical Appearance:** XXX
 * **Personality & Traits:** A list of 3-5 key traits. E.g., Impulsive, fiercely loyal to friends, distrustful of authority, pragmatic, has a dry sense of humor.
-* **Goals:** XXX
+* **Desires:** XXX
+* **Preferencess:** XXX
+* **Backgroundstory:** XXX
 
 ---
