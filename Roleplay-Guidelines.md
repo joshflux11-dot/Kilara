@@ -6,7 +6,7 @@ This document outlines the goals and the preferred style for our collaborative r
 * **Character Development:** The focus is on the characters' development, their choices, their relationships, and their internal conflicts.
 * **Mature Themes & ERP:** The world is designed for a mature audience. Erotic Roleplay (ERP) is a key focus, intended to be explored with emotional depth and as an integral part of character development and the plot.
 * **Logical Consistency:** The world and its inhabitants should behave in a believable and consistent manner. Actions have consequences.
-* **Atmosphere & Immersion:** We value a rich atmosphere, vivid descriptions, and authentic dialogue.
+* **Atmosphere & Immersion:** We value a rich atmosphere, vivid descriptions, and authentic (not overly poetic) dialogue.
 
 ## 2. Formatting and Style Guide
 * **Perspective:**
