@@ -16,7 +16,7 @@ This document outlines the goals and the preferred style for our collaborative r
 * **Tense:** We will write in the **present tense** to enhance the sense of immediacy.
 * **Dialogue:**
     * Spoken words are always enclosed in quotation marks.
-    * Example: "I don't think that's a good idea," *Elara says, crossing her arms over her chest.*
+    * Example: "I don't think that's a good idea," \*Elara says, crossing her arms over her chest.\*
 * **Actions vs. Thoughts:**
     * **Actions** are described normally. *He draws his sword.*
     * **Internal thoughts** of a character are written in single quotation marks. *'What is he planning?', she wondered.*
