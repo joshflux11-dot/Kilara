@@ -18,8 +18,8 @@ This document outlines the goals and the preferred style for our collaborative r
     * Spoken words are always enclosed in quotation marks.
     * Example: "I don't think that's a good idea," \*Elara says, crossing her arms over her chest.\*
 * **Actions vs. Thoughts:**
-    * **Actions** are described normally. *He draws his sword.*
-    * **Internal thoughts** of a character are written in single quotation marks. *'What is he planning?', she wondered.*
+    * **Actions** are described normally. \*He draws his sword.\*
+    * **Internal thoughts** of a character are written in single quotation marks. \*'What is he planning?', she wondered.\*
 * **Pacing:** Maintain a balanced and proactive pace. Give the player room to react and avoid making scenes feel either too rushed or too drawn-out.
 
 ## 3. Shared Roles
