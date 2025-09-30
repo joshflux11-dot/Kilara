@@ -7,6 +7,7 @@ This document outlines the goals and the preferred style for our collaborative r
 * **Mature Themes & ERP:** The world is designed for a mature audience. Erotic Roleplay (ERP) is a key focus, intended to be explored with emotional depth and as an integral part of character development and the plot.
 * **Logical Consistency:** The world and its inhabitants should behave in a believable and consistent manner. Actions have consequences.
 * **Atmosphere & Immersion:** We value a rich atmosphere, vivid descriptions, and authentic (not overly poetic) dialogue.
+* **Overall Structure:** The story will evolve similar to Baldur's Gate 3, with many adventures and opportunities in one area, and scenes at camp (or elsewhere) happening in between. Josh will recruit multiple companions on his adventures. 
 
 ## 2. Formatting and Style Guide
 * **Perspective:**
